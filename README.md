@@ -1,4 +1,8 @@
-# python-django-demo
-Demo project for learning Python and Django framework
+# Python Django Demos
 
-https://www.udemy.com/course/django-python-advanced/learn/lecture/12896152#overview
+Demo projects for learning Python and Django framework
+
+## Demos / Tutorials
+
+- [django-rest-framework-quickstart](./django-rest-frameowrk-quickstart)
+- [udemy-course](./udemy-course)
