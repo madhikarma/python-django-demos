@@ -1,4 +1,6 @@
-# Get Users API Demo (Django tutorial)
+# Get Users API Demo 
+
+Tutorial project for Python Django based API 
 
 ## Environment
 
